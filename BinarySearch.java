@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * This is an implementation of the binary search algorithm.
- * @author Ramesh Kumar
+ * @author @inforkgodara
  *
  */
 public class BinarySearch {
